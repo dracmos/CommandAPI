@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+
 namespace CommandAPI.Models
 {
    public class Command
